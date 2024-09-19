@@ -15,5 +15,10 @@ public class ExampleTwo
         y %= 3;
         x ++;
         ++ x;
+
+        System.out.println(x);
+        System.out.println(y);
+        System.out.println(a);
+        System.out.println(b);
     }
 }
